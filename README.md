@@ -32,27 +32,3 @@ Saartha utilises various ml models such as logistic regression etc while develop
 ### Video Demo of Saartha
 [Watch this video on YouTube](https://youtu.be/l9zM0OGfnSc)
 
-
-## Installation
-Clone the repository
-```
-git clone https://github.com/sharmaanchita/SAARTHA.git
-```
-Create python venv
-```
-python3 -m venv venv
-```
-Activate venv
-```
-source venv/bin/activate
-```
-Install dependencies
-```
-pip install -r requirements.txt
-```
-Run the app
-```
-streamlit run home.py
-```
-
-
