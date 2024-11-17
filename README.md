@@ -1,4 +1,5 @@
 # Saartha
+![Logo](images/saartha-high-resolution-logo.png)
 An AI prototype that optimizes the ENTIRE OEM supply chain while tackling the global supply chain problems.
 
 It contains 3 main features:
