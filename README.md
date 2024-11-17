@@ -20,16 +20,17 @@ It contains 3 sections with the following functionality:
 
 It includes 5 sections aiming to evolve the resource planning in supply chain:
 * Best Delivery Conditions: Cost and Emission - predicts the best delivery conditions based on cost and mission for a given shipment.
-*Warehouse Layout Optimization - uses Pareto Analysis to optimize warehouse layout.
-*Production Planning - reduces total cost by leveraging holding and setup cost to plan production.
-*Weekly Worker-Demand Planning - optimizes the weekly staff supply-demand planning while establishing employee retention.
-*Inventory Planning - provides graph depecting planning of inventory over time according to sales.
+* Warehouse Layout Optimization - uses Pareto Analysis to optimize warehouse layout.
+* Production Planning - reduces total cost by leveraging holding and setup cost to plan production.
+* Weekly Worker-Demand Planning - optimizes the weekly staff supply-demand planning while establishing employee retention.
+* Inventory Planning - provides graph depecting planning of inventory over time according to sales.
 
 ### Architecture of Saartha
 Saartha utilises various ml models such as logistic regression etc while developing models with own functionality
 ![Architecture](images/architecture-saartha.png)
 
 ### Video Demo of Saartha
+[Watch this video on YouTube](https://youtu.be/l9zM0OGfnSc)
 
 
 ## Installation
